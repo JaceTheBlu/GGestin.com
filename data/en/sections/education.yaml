@@ -10,81 +10,83 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: Master Thesis in Intelligent, Interactive and Autonomous Systems
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2021-2022
   institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    name: University of Western Brittany (France, Brittany)
+    url: "https://nouveau.univ-brest.fr/"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Advanced Compilation
+    - name: Advanced OOP with Java
+    - name: Algorithms and Sistributed Systems
+    - name: Program Theory
+  extracurricularActivities: #(optional)
+    - Badminton
+- name: B.Sc. in Computer Science & Engineering
+  icon: fa-graduation-cap
+  timeframe: 2020-2021
+  institution:
+    name: University of Western Brittany (France, Brittany)
+    url: "https://nouveau.univ-brest.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+    - name: Advanced Java Course
+    - name: C Development
+    - name: Information Systems Administration
+    - name: Advanced Architecture and Network Systems Course
+    - name: Corporate law
+    - name: IP Networking
+
+- name: DUT Informatique (A Grade+2)
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2017-2019
   institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
+    name: Vannes's IUT (France, Brittany)
+    url: "https://www.iutvannes.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Architecture and Network Systems
+    - name: Web Development
+    - name: Android Development
+    - name: C++ Development
+    - name: Deep Learning Introduction with Keras, Python 3
+    - name: Business Creation Workshop
+    - name: Information Systems Administration
+    - name: Informatics Laws and ethics
+    - name: Object Oriented Programation
+    - name: Operating system principles
+    - name: IT Project Management
+    - name: Economic, Financial and Legal Course
+    - name: Database management with SQL, MySQL, and MongoDB
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 5
+  #   outOf: 5
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+  - Badminton
+  - 3D modeling
+  - Game Development with Unity
+  - Theater
+
+- name: Secondary School Certificate with distinctions, German option
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2014-2017
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: High School "Louis Payen" (Reunion Island)
+    url: "https://etab.ac-reunion.fr/lyc-louis-payen/"
+  extracurricularActivities: #(optional)
+  - Badminton
+  - Hiking
+  - Unix Introduction
+  - Python Introduction

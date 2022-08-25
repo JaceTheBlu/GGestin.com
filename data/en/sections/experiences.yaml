@@ -6,59 +6,70 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: LATIM, Laboratoire de Traitement de l'Information Médicale – UMR 1101
+    url: "https://nouveau.univ-brest.fr/latim/"
+    location: Brest, France
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Information is at the heart of the research project of LATIM; being by nature multimodal, complex, heterogeneous, shared and distributed, it is integrated by researchers into methodological solutions for the sole purpose of improving the actual medical benefit.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Intern in Tool Development for Biology Modeling
+    start: March 2022
+    end: June 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design a tool for biology modeling using Godot
+    - Test the faisability by creating exemple scenes
+    - Document the full process
+
+- company:
+    name: NETIA software
+    url: "https://netia.com"
+    location: Montpellier, France
+    # company overview
+    overview: NETIA is a company focused on production and scheduling systems software, they accelerate and secure the core business processes of their radio broadcast customers.
+  positions:
+  - designation: Intern in software test automation
+    start: March 2021
+    end: June 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Implementation of software test automation solutions
+    - Test the endurance of the distribution software
+    - Ensure the non-regression of the production software
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: DAVID Systems
+    url: "https://www.davidsystems.com/"
+    location: Munich, Germany
+    overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Web Developer Volunteer Intern
+    start: February 2020
+    end: July 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Agile Development.
+    - FullStack Development.
+    - Adapt our Product for Accessibility
+    - Present our Product to a range of customer
+    - Deepening internship in the field of radio and web development.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: DAVID Systems
+    url: "https://www.davidsystems.com/"
+    location: Munich, Germany
+    overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Web Developer Intern
+    start: April 2019
+    end: August 2019
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Frontend and Backend Testing.
+    - FullStack Development.
+    - Joined an Agile Team with the Scrum methodology

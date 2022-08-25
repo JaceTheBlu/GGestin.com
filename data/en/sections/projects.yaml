@@ -12,53 +12,62 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
 - name: Academic
   filter: "academic"
 - name: Hobby
   filter: "hobby"
+- name: Web
+  filter: "Web"
+- name: Game Development
+  filter: "Game Development"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
-
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: PtitPass
+  logo: /images/sections/projects/ptitpass.png
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  timeline: "February 2022 - Present"
+  url: "https://addons.mozilla.org/en-US/firefox/addon/ptitpass/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Development of a Firefox Extension for the sake of Science.
+  tags: ["hobby", "Extension", "JavaScript"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: SimCell
+  logo: /images/sections/projects/godot.png
+  role: Contributor
+  timeline: "March 2022 - June 2022"
+  # repo: https://gitlab.com/GGestin/projet-tal-godot-2022 # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://gitlab.com/GGestin/projet-tal-godot-2022"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Design and Development of a modeling tool for biology researchers.
+  tags: ["academic", "3D Engine", "Scrum"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
-
-- name: Toha
-  logo: /images/sections/projects/toha.png
+- name: Hugo
+  logo: /images/sections/projects/favicon.png
   role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  timeline: "June 2022 - Present"
+  url: "https://ggestin.com"
+  summary: Development and Updating of this portfolio using HUGO.
+  tags: ["hobby", "Web"]
+
+- name: Out Of Oxygen
+  logo: /images/sections/projects/OOO.png
+  role: Team Lead/Developer
+  timeline: "13 July 2020 - 15 July 2020"
+  url: "https://jacetheblu.itch.io/out-of-oxygen"
+  summary: Game developed and submited to the GMTK 2020, an event where you have to create a game in 48h.
+  tags: ["hobby", "3D Engine", "Game Development"]
+
+- name: C Threads
+  logo: /images/sections/projects/gitlab.png
+  role: Owner
+  timeline: "February 2021"
+  url: "https://gitlab.com/GGestin/mini-projet-as2-threads"
+  summary: Exploratory project on threads with the C language.
+  tags: ["academic", "fun", "multithreading"]
+
+- name: Project Monoplan
+  role: Owner
+  logo: /images/sections/projects/gitlab.png
+  timeline: "November 2020 - December 2020"
+  url: "https://gitlab.com/GGestin/projet-monoplan-l3-ii"
+  summary: Programming project in C for my Bachelor. Goal was to create a spreadsheet program.
+  tags: ["academic", "multithreading", "makefile", "IHM"]
