@@ -1,0 +1,17 @@
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+stages:
+  - build
+  - deploy
+
+site-pages:
+  stage: build
+  image: monachus/hugo
+  script:
+    - hugo
+  artifacts:
+    paths:
+    - public
+  only:
+    - master
