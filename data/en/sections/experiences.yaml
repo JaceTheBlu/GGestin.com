@@ -17,7 +17,7 @@ experiences:
     # company overview
     overview: Information is at the heart of the research project of LATIM; being by nature multimodal, complex, heterogeneous, shared and distributed, it is integrated by researchers into methodological solutions for the sole purpose of improving the actual medical benefit.
   positions:
-  - designation: Intern in Tool Development for Biology Modeling
+  - designation: Tool Development for Biology Modeling (Intern)
     start: March 2022
     end: June 2022
     # give some points about what was your responsibilities at the company.
@@ -33,7 +33,7 @@ experiences:
     # company overview
     overview: NETIA is a company focused on production and scheduling systems software, they accelerate and secure the core business processes of their radio broadcast customers.
   positions:
-  - designation: Intern in software test automation
+  - designation: Software Test Automation (Intern)
     start: March 2021
     end: June 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
@@ -50,7 +50,7 @@ experiences:
     location: Munich, Germany
     overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
   positions:
-  - designation: Web Developer Volunteer Intern
+  - designation: Web Developer (Volunteer Intern)
     start: February 2020
     end: July 2020
     responsibilities:
@@ -66,7 +66,7 @@ experiences:
     location: Munich, Germany
     overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
   positions:
-  - designation: Web Developer Intern
+  - designation: Web Developer (Intern)
     start: April 2019
     end: August 2019
     responsibilities:
