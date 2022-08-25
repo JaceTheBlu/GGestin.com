@@ -40,7 +40,7 @@ projects:
   summary: Design and Development of a modeling tool for biology researchers.
   tags: ["academic", "3D Engine", "Scrum"]
 
-- name: Hugo
+- name: GGestin.com
   logo: /images/sections/projects/favicon.png
   role: Owner
   timeline: "June 2022 - Present"
