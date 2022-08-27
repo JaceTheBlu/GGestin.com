@@ -70,4 +70,4 @@ projects:
   timeline: "November 2020 - December 2020"
   url: "https://gitlab.com/GGestin/projet-monoplan-l3-ii"
   summary: Programming project in C for my Bachelor. Goal was to create a spreadsheet program.
-  tags: ["academic", "multithreading", "makefile", "IHM"]
+  tags: ["academic", "multithreading", "makefile", "UI/UX"]
