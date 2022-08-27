@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Projets
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: Tous
+  filter: "Tous"
+- name: Academique
+  filter: "Academique"
+- name: Hobby
+  filter: "Hobby"
+- name: Web
+  filter: "Web"
+- name: Développement de jeux
+  filter: "Développement de jeux"
+
+# your projects
+projects:
+- name: PtitPass
+  logo: /images/sections/projects/ptitpass.png
+  role: Développeur
+  timeline: "Février 2022 - Présent"
+  url: "https://addons.mozilla.org/en-US/firefox/addon/ptitpass/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Développement d'une extension Firefox pour l'expérience.
+  tags: ["Hobby", "Extension", "JavaScript"]
+
+- name: SimCell
+  logo: /images/sections/projects/godot.png
+  role: Contributeur
+  timeline: "Mars 2022 - Juin 2022"
+  # repo: https://gitlab.com/GGestin/projet-tal-godot-2022 # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://gitlab.com/GGestin/projet-tal-godot-2022"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Conception et développement d'un outil de modélisation pour les chercheurs en biologie.
+  tags: ["Academique", "3D Engine", "Scrum"]
+
+- name: GGestin.com
+  logo: /images/sections/projects/favicon.png
+  role: Propriétaire
+  timeline: "Juin 2022 - Present"
+  url: "https://ggestin.com"
+  summary: Développement et mise à jour de ce Portfolio en utilisant HUGO.
+  tags: ["Hobby", "Web"]
+
+- name: Out Of Oxygen
+  logo: /images/sections/projects/OOO.png
+  role: Chef d'équipe/Développeur
+  timeline: "13 Juillet 2020 - 15 Juillet 2020"
+  url: "https://jacetheblu.itch.io/out-of-oxygen"
+  summary: Jeu développé et soumis au GMTK 2020, un événement où vous devez créer un jeu en 48h.
+  tags: ["Hobby", "3D Engine", "Développement de jeux"]
+
+- name: C Threads
+  logo: /images/sections/projects/gitlab.png
+  role: Propriétaire
+  timeline: "Février 2021"
+  url: "https://gitlab.com/GGestin/mini-projet-as2-threads"
+  summary: Projet exploratoire sur les threads avec le langage C.
+  tags: ["Academique", "Fun", "Multithreading"]
+
+- name: Projet Monoplan
+  role: Propriétaire
+  logo: /images/sections/projects/gitlab.png
+  timeline: "Novembre 2020 - Décembre 2020"
+  url: "https://gitlab.com/GGestin/projet-monoplan-l3-ii"
+  summary: Projet de programmation en C pour mon Bachelor. Le but était de créer un programme de tableur.
+  tags: ["Academique", "Multithreading", "Makefile", "IHM"]

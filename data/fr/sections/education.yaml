@@ -1,0 +1,93 @@
+# section information
+section:
+  name: Formations
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master Informatique en Systèmes, Interactif Intelligent et Autonomes
+  icon: fa-graduation-cap
+  timeframe: 2021-2022
+  institution:
+    name: Université de Bretagne Occidentale (France, Bretagne)
+    url: "https://nouveau.univ-brest.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Compilation avancée
+    - name: Programmation Orientée Objet avec Java
+    - name: Algorithmes et Systèmes Distribués
+    - name: Théorie des Programmes
+  extracurricularActivities: #(optional)
+    - Badminton
+- name: Licence Ingénierie Informatique
+  icon: fa-graduation-cap
+  timeframe: 2020-2021
+  institution:
+    name: Université de Bretagne Occidentale (France, Bretagne)
+    url: "https://nouveau.univ-brest.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Renforcement Java
+    - name: Développement C
+    - name: Systèmes d'Information
+    - name: Architecture Avancée et Systèmes Réseau
+    - name: Droit des Entreprises
+    - name: Réseaux IP
+
+- name: DUT Informatique
+  icon: fa-university
+  timeframe: 2017-2019
+  institution:
+    name: IUT de Vannes (France, Bretagne)
+    url: "https://www.iutvannes.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Architecture et Systèmes de Réseaux
+    - name: Développement Web
+    - name: Développement Android
+    - name: Développement C++
+    - name: Introduction au Deep Learning avec Keras, Python 3
+    - name: Atelier de création d'entreprise
+    - name: Administration des Systèmes d'Information
+    - name: Lois et éthique de l'Informatique
+    - name: Programmation orientée objet
+    - name: Principes des systèmes d'exploitation
+    - name: Gestion de projets informatiques
+    - name: Cours d'économie, de finance et de droit
+    - name: Gestion des bases de données avec SQL, MySQL et MongoDB
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 5
+  #   outOf: 5
+  extracurricularActivities: #(optional)
+  - Badminton
+  - Modélisation 3D, Blender
+  - Développement de jeux avec Unity
+  - Théâtre
+  - Introduction au piratage éthique avec mon mentor Blandine
+
+- name: Bac S-SI avec mention, option Européenne Allemand
+  icon: fa-school
+  timeframe: 2014-2017
+  institution:
+    name: Lycée Louis Payen (Ile de la Réunion)
+    url: "https://etab.ac-reunion.fr/lyc-louis-payen/"
+  extracurricularActivities: #(optional)
+  - Badminton
+  - Randonées
+  - Introduction à Unix
+  - Introduction à Python

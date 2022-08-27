@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: JavaScript
+  logo: /images/sections/skills/js.png
+  summary: "Principale langue utilisée dans ma vie professionnelle, je suis capable de construire un site web à partir de zéro pour répondre à la demande. Avec/sans la plupart des frameworks connus."
+  url: "https://www.javascript.com/"
+
+- name: C/C++
+  logo: /images/sections/skills/c++.png
+  summary: "Je connais la programmation C/C++ grâce à 3 ans de cours universitaires. Utilisé pour la programmation de bureau principale et la résolution de problèmes."
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Utilisé pendant la plupart de mes années universitaires. J'ai vu ce langage dans de nombreux projets depuis environ 5 ans."
+  url: "https://www.java.com/"
+
+- name: Go Development
+  logo: /images/sections/skills/go.png
+  summary: "Capable d'écrire des programmes évolutifs, testables et maintenables. J'ai utilisé ce langage pendant mes cours mais je l'ai adoré."
+  url: "https://golang.org/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Écrire la plupart des programmes en tant que conteneur dockerisé. Principalement appris par moi-même avec des cours en ligne."
+  url: "https://www.docker.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Expérimenté avec le développement basé sur git. J'utilise principalement GitLab. J'ai également de l'expérience dans le travail avec GitHub."
+  url: "https://git-scm.com/"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "J'ai appris Python pendant mes cours les plus scientifiques, principalement utilisé pour les tâches rapides ou le Deep Learning."
+  url: "https://www.python.org/"
+
+- name: Blender
+  logo: /images/sections/skills/blender.png
+  summary: "J'ai appris par moi-même et utilisé dans des projets personnels pendant +5 ans."
+  url: "https://www.blender.org/"
+
+- name: Unity
+  logo: /images/sections/skills/unity.png
+  summary: "Principalement utilisé pour +5 ans de développement de jeux comme un hobby. Je l'ai aussi utilisé pour la modélisation.
+  url: "https://unity.com/"

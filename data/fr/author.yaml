@@ -1,0 +1,26 @@
+# some information about you
+name: "Gaëtan Gestin"
+nickname: "Gaëtan"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Salut, moi c'est "
+image: "images/author/me.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "gestin.gaetan@gmail.com"
+  # phone: "+33 6 22 25 82 10"
+  github: GGestin
+  linkedin: GGestin
+
+# some summary about what you do
+summary:
+  - Développeur Web
+  - Développeur C/C#
+  - Développeur Java
+  - Développeur de jeux
+  - CI/CD
+  - Développeur Web
+  - Développeur C/C#
+  - Développeur Java
+  - Développeur de jeux
+  - CI/CD
+  - ;DROP ALL TABLES ; --

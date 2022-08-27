@@ -1,0 +1,75 @@
+# section information
+section:
+  name: Expériences Pro
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: LATIM, Laboratoire de Traitement de l'Information Médicale (Brest, France)
+    url: "https://nouveau.univ-brest.fr/latim/"
+    location: (4 mois)
+    # company overview
+    overview: L'information est au cœur du projet de recherche du LATIM ; étant par nature multimodale, complexe, hétérogène, partagée et distribuée, elle est intégrée par les chercheurs dans des solutions méthodologiques dans le seul but d'améliorer le bénéfice médical réel.
+  positions:
+  - designation: Développement d'outils pour la modélisation en biologie (Stagiaire)
+    start: Mars 2022
+    end: Juin 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Concevoir un outil pour la modélisation de la biologie en utilisant Godot
+    - Tester la faisabilité en créant des scènes d'exemple
+    - Documenter le processus complet
+
+- company:
+    name: NETIA software (Montpellier, France)
+    url: "https://netia.com"
+    location: (4 mois)
+    # company overview
+    overview: NETIA est une société spécialisée dans les logiciels de systèmes de production et de programmation. Elle accélère et sécurise les processus métier fondamentaux de ses clients du secteur de la radiodiffusion.
+  positions:
+  - designation: Automatisation des tests logiciels (Stagiaire)
+    start: Mars 2021
+    end: Juin 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Mise en œuvre de solutions d'automatisation des tests logiciels
+    - Tester l'endurance du logiciel de distribution
+    - Assurer la non-régression du logiciel de production
+
+- company:
+    name: DAVID Systems (Munich, Allemagne)
+    url: "https://www.davidsystems.com/"
+    location: (6 mois)
+    overview: Une société de logiciels d'entreprise dans le domaine de l'audio. Plus précisément, elle développe des logiciels de production et de diffusion pour les diffuseurs.
+  positions:
+  - designation: Développeur web (Stagiaire Volontaire)
+    start: Février 2020
+    end: Juillet 2020
+    responsibilities:
+    - Développement Agile
+    - Développement FullStack
+    - Adapter notre produit à l'accessibilité
+    - Présenter notre produit à un éventail de clients
+    - Stage d'approfondissement dans le domaine de la radio et du développement web
+
+- company:
+    name: DAVID Systems (Munich, Allemagne)
+    url: "https://www.davidsystems.com/"
+    location: (5 mois)
+    overview: Une société de logiciels d'entreprise dans le domaine de l'audio. Plus précisément, elle développe des logiciels de production et de diffusion pour les diffuseurs de médias.
+  positions:
+  - designation: Développeur web (Stagiaire)
+    start: Avril 2019
+    end: Août 2019
+    responsibilities:
+    - Tests Frontend et Backend
+    - Développement FullStack
+    - Rejoint une équipe Agile avec la méthodologie Scrum

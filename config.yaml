@@ -9,6 +9,9 @@ theme: "toha"
 languages:
   en:
     languageName: English
+    weight: 10
+  fr:
+    languageName: Français
     weight: 1
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
