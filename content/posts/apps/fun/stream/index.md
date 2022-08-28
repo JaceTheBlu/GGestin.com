@@ -1,13 +1,10 @@
 ---
-title: "GGStream"
+title: "🍿GGStream"
 date: 2020-06-08T08:06:25+06:00
-description: GGStreaming Service
-menu:
-  sidebar:
-    name: GGStream
-    identifier: stream
-    weight: 10
-tags: ["Stream",]
+description: My Personal Streaming Service
+hero:
+parent: fun
+tags: ["Stream"]
 categories: ["Stream"]
 ---
 
