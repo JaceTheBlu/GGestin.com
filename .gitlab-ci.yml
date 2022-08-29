@@ -1,9 +1,10 @@
 # The Docker image that will be used to build your app
 image: registry.gitlab.com/pages/hugo:latest
+
 # Functions that should be executed before the build script is run
 pages:
   script:
-    - hugo
+    - hugo --gc --minify --enableGitInfo
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
