@@ -10,8 +10,24 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Master Thesis in Intelligent, Interactive and Autonomous Systems
+- name: (2nd Year) Master Thesis Robotics, Erasmus in Verona, Italy
   icon: fa-graduation-cap
+  timeframe: 2022-2023
+  institution:
+    name: Università degli Studi di Verona (Italy, Verona)
+    url: "https://www.univr.it/en/university"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Robotics
+    - name: Computer Vision
+    - name: Embedded & IoT systems design
+    - name: HCI - Intelligent Interfaces
+
+- name: (1st Year) Master Thesis in Intelligent, Interactive and Autonomous Systems
+  icon: fa-user-graduate
   timeframe: 2021-2022
   institution:
     name: University of Western Brittany (France, Brittany)
@@ -27,8 +43,9 @@ degrees:
     - name: Program Theory
   extracurricularActivities: #(optional)
     - Badminton
+
 - name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
+  icon: fa-laptop-code
   timeframe: 2020-2021
   institution:
     name: University of Western Brittany (France, Brittany)

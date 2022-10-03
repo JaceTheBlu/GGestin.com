@@ -1,8 +1,8 @@
 ---
-title: Docs
+title: 📖Docs
 menu:
   sidebar:
-    name: Docs
+    name: 📖Docs
     identifier: docs
-    weight: 20
+    weight: 100
 ---

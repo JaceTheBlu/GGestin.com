@@ -5,5 +5,5 @@ menu:
     name: Fun
     identifier: fun
     parent: apps
-    weight: 20
+    weight: 1
 ---

@@ -10,8 +10,24 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Master Informatique en Systèmes, Interactif Intelligent et Autonomes
+- name: 2e Année Master Informatique Robotique, en Erasmus à Verone, Italy
   icon: fa-graduation-cap
+  timeframe: 2022-2023
+  institution:
+    name: Università degli Studi di Verona (Italy, Verone)
+    url: "https://www.univr.it/en/university"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Robotique
+    - name: Vision par ordinateur
+    - name: Conception de systèmes embarqués et IoT
+    - name: Interfaces intelligentes
+
+- name: 1ère Année Master Informatique en Systèmes, Interactif Intelligent et Autonomes
+  icon: fa-user-graduate
   timeframe: 2021-2022
   institution:
     name: Université de Bretagne Occidentale (France, Bretagne)
@@ -27,8 +43,9 @@ degrees:
     - name: Théorie des Programmes
   extracurricularActivities: #(optional)
     - Badminton
+
 - name: Licence Ingénierie Informatique
-  icon: fa-graduation-cap
+  icon: fa-laptop-code
   timeframe: 2020-2021
   institution:
     name: Université de Bretagne Occidentale (France, Bretagne)

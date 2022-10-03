@@ -1,8 +1,8 @@
 ---
-title: Apps
+title: 📱Apps
 menu:
   sidebar:
-    name: Apps
+    name: 📱Apps
     identifier: apps
-    weight: 20
+    weight: 1
 ---
