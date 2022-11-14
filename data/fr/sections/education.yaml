@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: 2e Année Master Informatique Robotique, en Erasmus à Verone, Italy
+- name: 2e Année Master Informatique en Intelligence Artificielle, Erasmus à Verone, Italy
   icon: fa-graduation-cap
   timeframe: 2022-2023
   institution:
@@ -19,12 +19,13 @@ degrees:
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
-    collapseAfter: 4
+    collapseAfter: 3
     courses:
-    - name: Robotique
-    - name: Vision par ordinateur
-    - name: Conception de systèmes embarqués et IoT
-    - name: Interfaces intelligentes
+    - name: Architectures Informatiques Avancées
+    - name: Interactions Homme-Machine - Interfaces intelligentes
+    - name: Traitement du Langage Naturel
+    - name: Surveillance des Processus
+    - name: Systèmes Embarqués et IoT
 
 - name: 1ère Année Master Informatique en Systèmes, Interactif Intelligent et Autonomes
   icon: fa-user-graduate

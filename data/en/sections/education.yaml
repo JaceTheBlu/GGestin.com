@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: (2nd Year) Master Thesis Robotics, Erasmus in Verona, Italy
+- name: (2nd Year) Master's degree in Artificial intelligence, Erasmus in Verona, Italy
   icon: fa-graduation-cap
   timeframe: 2022-2023
   institution:
@@ -19,12 +19,13 @@ degrees:
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
-    collapseAfter: 4
+    collapseAfter: 3
     courses:
-    - name: Robotics
-    - name: Computer Vision
-    - name: Embedded & IoT systems design
-    - name: HCI - Intelligent Interfaces
+    - name: Advanced computer architectures
+    - name: Human Computer Interactions - Intelligent Interfaces
+    - name: Natural Language Processing
+    - name: Process monitoring
+    - name: Embedded and IoT Systems
 
 - name: (1st Year) Master Thesis in Intelligent, Interactive and Autonomous Systems
   icon: fa-user-graduate
