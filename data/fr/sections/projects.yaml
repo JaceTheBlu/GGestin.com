@@ -23,6 +23,22 @@ buttons:
 
 # your projects
 projects:
+
+- name: Generic Dungeon
+  logo: /images/sections/projects/azzuro.png
+  role: Développeur/IHM Designer
+  timeline: "Novembre 2022"
+  url: "https://ptitllu.itch.io/generic-dungeon"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Jeu fais à l'occasion de la "Game Off 2022" Jam crée par GitHub en Novembre 2022.
+  tags: ["Hobby", "Développement de jeux", "Game Jam"]
+
+- name: NLTK Language Detector
+  logo: /images/sections/projects/NLTK.png
+  role: Propriétaire/Developer
+  timeline: "Novembre 2022"
+  url: "https://gitlab.com/GGestin/ntlk-language-detector"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Développement d'une IA capable de détecter les langues avec NTLK.
+  tags: ["Academique", "Python", "AI"]
 - name: PtitPass
   logo: /images/sections/projects/ptitpass.png
   role: Développeur
@@ -42,7 +58,7 @@ projects:
 
 - name: GGestin.com
   logo: /images/sections/projects/favicon.png
-  role: Propriétaire
+  role: Propriétaire/Développeur
   timeline: "Juin 2022 - Present"
   url: "https://ggestin.com"
   summary: Développement et mise à jour de ce Portfolio en utilisant HUGO.
@@ -54,18 +70,18 @@ projects:
   timeline: "13 Juillet 2020 - 15 Juillet 2020"
   url: "https://jacetheblu.itch.io/out-of-oxygen"
   summary: Jeu développé et soumis au GMTK 2020, un événement où vous devez créer un jeu en 48h.
-  tags: ["Hobby", "3D Engine", "Développement de jeux"]
+  tags: ["Hobby", "3D Engine", "Développement de jeux", "Game Jam"]
 
 - name: C Threads
   logo: /images/sections/projects/gitlab.png
-  role: Propriétaire
+  role: Propriétaire/Développeur
   timeline: "Février 2021"
   url: "https://gitlab.com/GGestin/mini-projet-as2-threads"
   summary: Projet exploratoire sur les threads avec le langage C.
   tags: ["Academique", "Fun", "Multithreading"]
 
 - name: Projet Monoplan
-  role: Propriétaire
+  role: Propriétaire/Développeur
   logo: /images/sections/projects/gitlab.png
   timeline: "Novembre 2020 - Décembre 2020"
   url: "https://gitlab.com/GGestin/projet-monoplan-l3-ii"
