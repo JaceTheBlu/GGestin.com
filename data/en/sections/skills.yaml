@@ -11,14 +11,19 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Unity
+  logo: /images/sections/skills/unity.png
+  summary: "Mainly used for +5years of Game Developpement as a Hobby. Used it too for modelisation purpose."
+  url: "https://unity.com/"
+
+- name: C#/C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know C/C++ programming from 3 years of Academic courses. Used for main desktop programming and problem solving."
+
 - name: JavaScript
   logo: /images/sections/skills/js.png
   summary: "Main language used mostly during my work-life, I am capable of building a website from scratch to fit the demand. With/Without most know frameworks."
   url: "https://www.javascript.com/"
-
-- name: C/C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know C/C++ programming from 3 years of Academic courses. Used for main desktop programming and problem solving."
 
 - name: Java
   logo: /images/sections/skills/java.png
@@ -50,7 +55,3 @@ skills:
   summary: "Learnt by myself and used in personnal project for +5 years."
   url: "https://www.blender.org/"
 
-- name: Unity
-  logo: /images/sections/skills/unity.png
-  summary: "Mainly used for +5years of Game Developpement as a Hobby. Used it too for modelisation purpose."
-  url: "https://unity.com/"
