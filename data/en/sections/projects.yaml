@@ -65,14 +65,6 @@ projects:
   summary: Development and Updating of this portfolio using HUGO.
   tags: ["Hobby", "Web"]
 
-- name: Out Of Oxygen
-  logo: /images/sections/projects/OOO.png
-  role: Team Lead/Developer
-  timeline: "13 July 2020 - 15 July 2020"
-  url: "https://jacetheblu.itch.io/out-of-oxygen"
-  summary: Game developed and submited to the GMTK 2020, an event where you have to create a game in 48h.
-  tags: ["Hobby", "3D Engine", "Game Development", "Game Jam"]
-
 - name: C Threads
   logo: /images/sections/projects/gitlab.png
   role: Owner/Developer
@@ -88,3 +80,11 @@ projects:
   url: "https://gitlab.com/GGestin/projet-monoplan-l3-ii"
   summary: Programming project in C for my Bachelor. Goal was to create a spreadsheet program.
   tags: ["Academic", "Multithreading", "Makefile", "UI/UX"]
+
+- name: Out Of Oxygen
+  logo: /images/sections/projects/OOO.png
+  role: Team Lead/Developer
+  timeline: "13 July 2020 - 15 July 2020"
+  url: "https://jacetheblu.itch.io/out-of-oxygen"
+  summary: Game developed and submited to the GMTK 2020, an event where you have to create a game in 48h.
+  tags: ["Hobby", "3D Engine", "Game Development", "Game Jam"]

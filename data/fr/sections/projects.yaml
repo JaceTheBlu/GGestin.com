@@ -39,6 +39,7 @@ projects:
   url: "https://gitlab.com/GGestin/ntlk-language-detector"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Développement d'une IA capable de détecter les langues avec NTLK.
   tags: ["Academique", "Python", "AI"]
+
 - name: PtitPass
   logo: /images/sections/projects/ptitpass.png
   role: Développeur
@@ -64,14 +65,6 @@ projects:
   summary: Développement et mise à jour de ce Portfolio en utilisant HUGO.
   tags: ["Hobby", "Web"]
 
-- name: Out Of Oxygen
-  logo: /images/sections/projects/OOO.png
-  role: Chef d'équipe/Développeur
-  timeline: "13 Juillet 2020 - 15 Juillet 2020"
-  url: "https://jacetheblu.itch.io/out-of-oxygen"
-  summary: Jeu développé et soumis au GMTK 2020, un événement où vous devez créer un jeu en 48h.
-  tags: ["Hobby", "3D Engine", "Développement de jeux", "Game Jam"]
-
 - name: C Threads
   logo: /images/sections/projects/gitlab.png
   role: Propriétaire/Développeur
@@ -87,3 +80,11 @@ projects:
   url: "https://gitlab.com/GGestin/projet-monoplan-l3-ii"
   summary: Projet de programmation en C pour mon Bachelor. Le but était de créer un programme de tableur.
   tags: ["Academique", "Multithreading", "Makefile", "IHM"]
+
+- name: Out Of Oxygen
+  logo: /images/sections/projects/OOO.png
+  role: Chef d'équipe/Développeur
+  timeline: "13 Juillet 2020 - 15 Juillet 2020"
+  url: "https://jacetheblu.itch.io/out-of-oxygen"
+  summary: Jeu développé et soumis au GMTK 2020, un événement où vous devez créer un jeu en 48h.
+  tags: ["Hobby", "3D Engine", "Développement de jeux", "Game Jam"]
