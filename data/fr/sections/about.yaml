@@ -43,6 +43,10 @@ socialLinks:
   icon: "fa-brands fa-itch-io"
   url: "https://jacetheblu.itch.io/"
 
+- name: UnityLearn
+  icon: "fa-brands fa-unity"
+  url: "https://learn.unity.com/u/5d963ba6edbc2a191b9ab53d"
+
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
