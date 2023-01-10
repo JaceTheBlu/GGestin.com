@@ -69,14 +69,14 @@ badges:
 
 - type: soft-skill-indicator
   name: Développement Logiciel
-  percentage: 75
+  percentage: 85
   color: yellow
 
 - type: soft-skill-indicator
   name: CI/CD
   percentage: 50
   color: blue
-  
+
 - type: certification
   name: Unity Essentials Pathway
   url: "https://www.credly.com/badges/94e2d9f8-a5bb-4fb8-923c-167af393ec62/public_url"
