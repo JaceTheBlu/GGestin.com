@@ -73,20 +73,20 @@ badges:
   percentage: 50
   color: blue
 
-- type: certification
-  name: Unity Essentials Pathway
-  url: "https://www.credly.com/badges/94e2d9f8-a5bb-4fb8-923c-167af393ec62/public_url"
-  badge: "https://images.credly.com/size/680x680/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png"
-
 - type: soft-skill-indicator
   name: Agile Method
   percentage: 95
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 95
+  name: Game Development
+  percentage: 75
   color: yellow
+
+- type: certification
+  name: Unity Essentials Pathway
+  url: "https://www.credly.com/badges/94e2d9f8-a5bb-4fb8-923c-167af393ec62/public_url"
+  badge: "https://images.credly.com/size/680x680/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
