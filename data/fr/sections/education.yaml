@@ -23,7 +23,7 @@ degrees:
     courses:
     - name: Architectures Informatiques Avancées
     - name: Interactions Homme-Machine - Interfaces intelligentes
-    - name: Traitement du Langage Naturel
+    - name: Traitement du Langage Naturel - IA
     - name: Surveillance des Processus
     - name: Systèmes Embarqués et IoT
 

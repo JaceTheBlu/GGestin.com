@@ -23,7 +23,7 @@ degrees:
     courses:
     - name: Advanced computer architectures
     - name: Human Computer Interactions - Intelligent Interfaces
-    - name: Natural Language Processing
+    - name: Natural Language Processing - AI
     - name: Process monitoring
     - name: Embedded and IoT Systems
 

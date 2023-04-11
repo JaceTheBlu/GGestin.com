@@ -23,6 +23,13 @@ buttons:
 
 # your projects
 projects:
+- name: RicettAR
+  logo: /images/sections/projects/RicettAR.png
+  role: Développeur/IHM Designer
+  timeline: "Février 2023"
+  url: "https://gitlab.com/GGestin/ricett-ar"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Une façon d'améliorer les recettes de cuisine avec la réalité augmentée. Projet réalisé dans le cadre d'un cours de HCI par le Profesore Andrea Giachetti.
+  tags: ["Academique", "AI", "AR", "Unity"]
 
 - name: Generic Dungeon
   logo: /images/sections/projects/azzuro.png
