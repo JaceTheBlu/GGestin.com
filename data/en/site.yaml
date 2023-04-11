@@ -20,8 +20,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: GGestin's Portfolio
+  title: GGestin.com
   type: website
-  description: Portfolio and personal blog of Gaëtan Gestin.
+  description: Gaëtan Gestin's Portfolio.
   image: images/author/me.png
   url: https://ggestin.com
