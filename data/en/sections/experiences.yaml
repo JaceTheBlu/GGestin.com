@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: DAVID Systems (Munich, Germany)
+    url: "https://www.davidsystems.com/"
+    location: (4 months)
+    # company overview
+    overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
+  positions:
+  - designation: UX Developer (Intern)
+    start: February 2023
+    end: July 2023
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Enhance the User Experience for DAVID Application
+    - Develop a full suit of WebComponents that will be used as a standart in the DAVID Applications
+    - Integrate the new WebComponents in already existing applications
+
+- company:
     name: LATIM, Laboratoire de Traitement de l'Information Médicale (Brest, France)
     url: "https://nouveau.univ-brest.fr/latim/"
     location: (4 months)

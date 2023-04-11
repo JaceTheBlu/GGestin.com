@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: DAVID Systems (Munich, Germany)
+    url: "https://www.davidsystems.com/"
+    location: (4 months)
+    # company overview
+    overview: Une société de logiciels d'entreprise dans le domaine de l'audio. Plus précisément, elle développe des logiciels de production et de diffusion pour les diffuseurs.
+  positions:
+  - designation: Développeur UX (Stagiaire)
+    start: Février 2023
+    end: Juillet 2023
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Améliorer l'expérience de l'utilisateur pour l'application DAVID
+    - Développer une gamme complète de WebComponents qui seront utilisés comme standard dans les applications DAVID
+    - Intégrer les nouveaux WebComponents dans les applications existantes
+    
+- company:
     name: LATIM, Laboratoire de Traitement de l'Information Médicale (Brest, France)
     url: "https://nouveau.univ-brest.fr/latim/"
     location: (4 mois)
