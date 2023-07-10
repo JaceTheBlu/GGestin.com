@@ -1,8 +1,8 @@
 # Copyright Notice
-copyright: Made with 💙 © 2022 Copyright.
+copyright: Made with 💙 © 2022/2023 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
-disclaimer: "Made with 💙 © 2022 Copyright."
+disclaimer: "Made with 💙 © 2022/2023 Copyright."
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Gaëtan Gestin's Portfolio.
