@@ -18,13 +18,15 @@ experiences:
     overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
   positions:
   - designation: UX Developer (Intern)
-    start: February 2023
+    start: March 2023
     end: July 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Enhance the User Experience for DAVID Application
-    - Develop a full suit of WebComponents that will be used as a standart in the DAVID Applications
+    - Develop  WebComponents that will be used as a standard in the DAVID Web Applications
     - Integrate the new WebComponents in already existing applications
+    - Manage a Student Intern for a 2 month project
+    - Gather Feedback with our customers to make our Apps better!
 
 - company:
     name: LATIM, Laboratoire de Traitement de l'Information Médicale (Brest, France)
