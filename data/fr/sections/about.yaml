@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Développeur UX (Stagiaire)
+designation: Creative Developer
 # your company information
 company:
-  name: DAVID Systems (Munich, Germany)
-  url: "https://www.davidsystems.com/"
+  name: #OpenToWork
+  url: "https://www.linkedin.com/in/ggestin/"
 
 # a summary about you
 summary: "Je suis un jeune développeur créatif toujours à la recherche d'opportunités et de défis où je peux travailler.

@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: UX Developer (Intern)
+designation: Creative Developer
 # your company information
 company:
-  name: DAVID Systems (Munich, Germany)
-  url: "https://www.davidsystems.com/"
+  name: #OpenToWork
+  url: "https://www.linkedin.com/in/ggestin/"
 
 # a summary about you
 summary: 'I am a creative young developer always searching for opportunities and challenges where I can put my hard work.
