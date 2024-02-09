@@ -69,7 +69,7 @@ projects:
   logo: /images/sections/projects/favicon.png
   role: Owner/Developer
   timeline: "June 2022 - Present"
-  url: "https://ggestin.com"
+  url: "https://ggestin.com/?ref=recursive"
   summary: Development and Updating of this portfolio using HUGO.
   tags: ["Hobby", "Web"]
 
