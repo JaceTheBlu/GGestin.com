@@ -19,6 +19,7 @@ skills:
 - name: C#/C++
   logo: /images/sections/skills/c++.png
   summary: "Je connais la programmation C/C++ grâce à 3 ans de cours universitaires. Utilisé pour la programmation de bureau principale et la résolution de problèmes."
+  url: "https://learn.microsoft.com/en-us/dotnet/csharp/"
 
 - name: JavaScript
   logo: /images/sections/skills/js.png

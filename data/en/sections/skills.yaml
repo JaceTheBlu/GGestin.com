@@ -19,6 +19,7 @@ skills:
 - name: C#/C++
   logo: /images/sections/skills/c++.png
   summary: "Know C/C++ programming from 3 years of Academic courses. Used for main desktop programming and problem solving."
+  url: "https://learn.microsoft.com/en-us/dotnet/csharp/"
 
 - name: JavaScript
   logo: /images/sections/skills/js.png
