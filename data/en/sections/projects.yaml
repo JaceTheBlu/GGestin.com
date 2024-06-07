@@ -28,7 +28,8 @@ projects:
   logo: /images/sections/projects/favicon.png
   role: Owner/Developer
   timeline: "Mai 2024"
-  repo: "https://github.com/JaceTheBlu/GGenerator"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  repo: "https://github.com/JaceTheBlu/GGenerator" 
+  url: "https://ggenerator-beta.vercel.app/" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: A fancy multi-purpose generator for (theoretically) every cases where you need random things 🎲 
   tags: ["Hobby", "Web", "Svelte", "TailwindCSS"]
 
