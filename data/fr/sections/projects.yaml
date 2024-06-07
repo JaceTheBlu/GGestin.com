@@ -23,6 +23,15 @@ buttons:
 
 # your projects
 projects:
+
+- name: GGenerator
+  logo: /images/sections/projects/favicon.png
+  role: Propriétaire/Développeur
+  timeline: "Mai 2024"
+  repo: "https://github.com/JaceTheBlu/GGenerator"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Un générateur fantaisiste et polyvalent pour (théoriquement) tous les cas où vous avez besoin de choses aléatoires 🎲 
+  tags: ["Hobby", "Web", "Svelte", "TailwindCSS"]
+
 - name: RicettAR
   logo: /images/sections/projects/RicettAR.png
   role: Développeur/IHM Designer
@@ -41,7 +50,7 @@ projects:
 
 - name: NLTK Language Detector
   logo: /images/sections/projects/NLTK.png
-  role: Propriétaire/Developer
+  role: Propriétaire/Développeur
   timeline: "Novembre 2022"
   url: "https://gitlab.com/GGestin/ntlk-language-detector"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Développement d'une IA capable de détecter les langues avec NTLK.
