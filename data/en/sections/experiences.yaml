@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: PEX Code (Paris, France)
+    # url: "https://www.davidsystems.com/"
+    # location: (4 months)
+    # company overview
+    overview: The aim of the association is to enable young IT graduates to gain experience by carrying out practical projects.
+  positions:
+  - designation: President-Developer
+    start: January 2024
+    end: Present
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lead the development and execution of various IT projects to provide practical experience for members.
+    - Manage the association's online presence, including website development and maintenance.
+    - Oversee the administration and strategic direction of the association.
+
+- company:
     name: DAVID Systems (Munich, Germany)
     url: "https://www.davidsystems.com/"
     location: (4 months)

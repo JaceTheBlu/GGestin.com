@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: PEX Code (Paris, France)
+    # url: "https://www.davidsystems.com/"
+    # location: (4 months)
+    # company overview
+    overview:  L'objectif de l'association est de permettre aux jeunes diplômés en informatique d'acquérir de l'expérience en réalisant des projets pratiques.
+  positions:
+  - designation: Président-Développeur
+    start: Janvier 2024
+    end: Present
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Diriger le développement et l'exécution de divers projets informatiques afin de fournir une expérience pratique aux membres.
+    - Gérer la présence en ligne de l'association, y compris le développement et la maintenance du site web.
+    - Superviser l'administration et la direction stratégique de l'association.
+
+- company:
     name: DAVID Systems (Munich, Germany)
     url: "https://www.davidsystems.com/"
     location: (4 months)
