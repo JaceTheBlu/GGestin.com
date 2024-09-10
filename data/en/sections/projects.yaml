@@ -24,6 +24,15 @@ buttons:
 # your projects
 projects:
 
+- name: PexCode.org Website
+  logo: /images/sections/projects/pexcode.jpg
+  role: Owner/Developer
+  timeline: "September 2024"
+  repo: "https://github.com/JaceTheBlu/pexcode.org" 
+  url: "https://pexcode.org" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: This is the official website for our community-driven platform, built to empower young IT professionals through collaboration, real-world projects, and skill development. 
+  tags: ["Asso", "Web", "Hugo"]
+
 - name: GGenerator
   logo: /images/sections/projects/favicon.png
   role: Owner/Developer

@@ -24,6 +24,15 @@ buttons:
 # your projects
 projects:
 
+- name: Site Web PexCode.org
+  logo: /images/sections/projects/pexcode.jpg
+  role: Propriétaire/Développeur
+  timeline: "Septembre 2024"
+  repo: "https://github.com/JaceTheBlu/pexcode.org"
+  url: "https://pexcode.org"
+  summary: Il s'agit du site officiel de notre plateforme communautaire, conçue pour autonomiser les jeunes professionnels de l'informatique grâce à la collaboration, à des projets concrets et au développement de compétences.
+  tags: ["Asso", "Web", "Hugo"]
+
 - name: GGenerator
   logo: /images/sections/projects/favicon.png
   role: Propriétaire/Développeur
