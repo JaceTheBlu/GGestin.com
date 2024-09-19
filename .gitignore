@@ -1,2 +1,4 @@
-resources/*
-public/*
+resources
+public
+old stuff
+node_modules
