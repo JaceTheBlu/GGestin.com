@@ -11,15 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: PEX Code (Paris, France)
+    name: PEX Code
     url: "https://pexcode.org/"
-    # location: (4 months)
+    location: Paris, France
     # company overview
-    overview: Association that I created, the aim of the association is to enable young IT graduates to gain experience by carrying out practical projects.
+    overview: PexCode is an association that we created, the aim of the association is to enable young IT graduates to gain experience by carrying out practical projects.
   positions:
   - designation: President-Developer
     start: January 2024
-    end: Present
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Lead the development and execution of various IT projects to provide practical experience for members.
@@ -27,9 +26,9 @@ experiences:
     - Oversee the administration and strategic direction of the association.
 
 - company:
-    name: DAVID Systems (Munich, Germany)
+    name: DAVID Systems (5 months)
     url: "https://www.davidsystems.com/"
-    location: (4 months)
+    location: Munich, Germany
     # company overview
     overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
   positions:
@@ -45,9 +44,9 @@ experiences:
     - Gather Feedback with our customers to make our Apps better!
 
 - company:
-    name: LATIM, Laboratoire de Traitement de l'Information Médicale (Brest, France)
+    name: LATIM, Laboratoire de Traitement de l'Information Médicale (4 months)
     url: "https://nouveau.univ-brest.fr/latim/"
-    location: (4 months)
+    location: Brest, France
     # company overview
     overview: Information is at the heart of the research project of LATIM; being by nature multimodal, complex, heterogeneous, shared and distributed, it is integrated by researchers into methodological solutions for the sole purpose of improving the actual medical benefit.
   positions:
@@ -61,9 +60,9 @@ experiences:
     - Document the full process
 
 - company:
-    name: NETIA software (Montpellier, France)
+    name: NETIA software (4 months)
     url: "https://netia.com"
-    location: (4 months)
+    location: Montpellier, France
     # company overview
     overview: NETIA is a company focused on production and scheduling systems software, they accelerate and secure the core business processes of their radio broadcast customers.
   positions:
@@ -79,9 +78,9 @@ experiences:
     - Ensure the non-regression of the production software
 
 - company:
-    name: DAVID Systems (Munich, Germany)
+    name: DAVID Systems (6 months)
     url: "https://www.davidsystems.com/"
-    location: (6 months)
+    location: Munich, Germany
     overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
   positions:
   - designation: Web Developer (Volunteer Intern)
@@ -95,9 +94,9 @@ experiences:
     - Deepening internship in the field of radio and web development.
 
 - company:
-    name: DAVID Systems (Munich, Germany)
+    name: DAVID Systems (5 months)
     url: "https://www.davidsystems.com/"
-    location: (5 months)
+    location: Munich, Germany
     overview: An enterprise software company in Audio. Specifically, developing production and playout software for broadcasters.
   positions:
   - designation: Web Developer (Intern)
