@@ -11,15 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: PEX Code (Paris, France)
+    name: PEX Code
     url: "https://pexcode.org/"
-    # location: (4 months)
+    location: Paris, France
     # company overview
     overview: Association que j'ai fondé dont l'objectif de l'association est de permettre aux jeunes diplômés en informatique d'acquérir de l'expérience en réalisant des projets pratiques.
   positions:
   - designation: Président-Développeur
     start: Janvier 2024
-    end: Present
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Diriger le développement et l'exécution de divers projets informatiques afin de fournir une expérience pratique aux membres.
@@ -27,9 +26,9 @@ experiences:
     - Superviser l'administration et la direction stratégique de l'association.
 
 - company:
-    name: DAVID Systems (Munich, Germany)
+    name: DAVID Systems (5 mois)
     url: "https://www.davidsystems.com/"
-    location: (4 months)
+    location: Munich, Germany
     # company overview
     overview: Une société de logiciels d'entreprise dans le domaine de l'audio. Plus précisément, elle développe des logiciels de production et de diffusion pour les diffuseurs.
   positions:
@@ -45,9 +44,9 @@ experiences:
     - Recueillir les commentaires de nos clients afin d'améliorer nos application!
 
 - company:
-    name: LATIM, Laboratoire de Traitement de l'Information Médicale (Brest, France)
+    name: LATIM, Laboratoire de Traitement de l'Information Médicale (4 mois)
     url: "https://nouveau.univ-brest.fr/latim/"
-    location: (4 mois)
+    location: Brest, France
     # company overview
     overview: L'information est au cœur du projet de recherche du LATIM ; étant par nature multimodale, complexe, hétérogène, partagée et distribuée, elle est intégrée par les chercheurs dans des solutions méthodologiques dans le seul but d'améliorer le bénéfice médical réel.
   positions:
@@ -61,9 +60,9 @@ experiences:
     - Documenter le processus complet
 
 - company:
-    name: NETIA software (Montpellier, France)
+    name: NETIA software (4 mois)
     url: "https://netia.com"
-    location: (4 mois)
+    location: Montpellier, France
     # company overview
     overview: NETIA est une société spécialisée dans les logiciels de systèmes de production et de programmation. Elle accélère et sécurise les processus métier fondamentaux de ses clients du secteur de la radiodiffusion.
   positions:
@@ -79,9 +78,9 @@ experiences:
     - Assurer la non-régression du logiciel de production
 
 - company:
-    name: DAVID Systems (Munich, Allemagne)
+    name: DAVID Systems (6 mois)
     url: "https://www.davidsystems.com/"
-    location: (6 mois)
+    location: Munich, Allemagne
     overview: Une société de logiciels d'entreprise dans le domaine de l'audio. Plus précisément, elle développe des logiciels de production et de diffusion pour les diffuseurs.
   positions:
   - designation: Développeur web (Stagiaire Volontaire)
@@ -95,9 +94,9 @@ experiences:
     - Stage d'approfondissement dans le domaine de la radio et du développement web
 
 - company:
-    name: DAVID Systems (Munich, Allemagne)
+    name: DAVID Systems (5 mois)
     url: "https://www.davidsystems.com/"
-    location: (5 mois)
+    location: Munich, Allemagne
     overview: Une société de logiciels d'entreprise dans le domaine de l'audio. Plus précisément, elle développe des logiciels de production et de diffusion pour les diffuseurs de médias.
   positions:
   - designation: Développeur web (Stagiaire)
