@@ -1,0 +1,30 @@
+# Configure theme color settings
+theme:
+  enable: true
+  services:
+    light: true # enable light theme. default "true"
+    dark: true # enable dark theme. default "true"
+    default: system # can be either light, dark or system. default "system"
+    
+# Enable and configure portfolio
+portfolio:
+  enable: true
+
+# Enable and configure blog posts
+blog:
+  enable: false
+
+# Enable & configure "Notes" features
+notes:
+  enable: false
+
+# Enable Analytics
+analytics:
+  enabled: true
+  services:
+    goatCounter:
+      code: ggestin
+
+# Enable Support
+support:
+  enable: false

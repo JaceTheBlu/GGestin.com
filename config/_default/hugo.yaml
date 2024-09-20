@@ -1,0 +1,40 @@
+baseURL: https://ggestin.com/
+
+title: "Gaëtan Gestin's Portfolio"
+description: My incredible and colorfull portfolio, I think this is a better way to review my profile than CV. Feel free to contact me!
+
+languageCode: en-us
+languages:
+  en:
+    languageCode: en
+    languageName: English
+    title: "Gaëtan Gestin's Portfolio"
+
+    weight: 10
+  fr:
+    languageCode: fr
+    languageName: Français
+    title: "Portfolio de Gaëtan Gestin"
+
+    weight: 1
+
+# Enable global emoji support
+enableEmoji: true
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
