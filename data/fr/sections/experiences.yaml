@@ -11,6 +11,18 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Freelancer
+    location: Paris, France
+    overview: Travailler en tant que freelance en fournissant divers services informatiques, tout en profitant de la liberté et de la flexibilité d'être son propre patron.
+  positions:
+  - designation: Freelancer
+    start: Novembre 2024
+    responsibilities:
+    - Fournir des services de conseil en informatique aux clients.
+    - Développer des solutions logicielles personnalisées en fonction des besoins des clients.
+    - Gérer et maintenir les sites web et les applications des clients.
+
+- company:
     name: PEX Code
     url: "https://pexcode.org/"
     location: Paris, France

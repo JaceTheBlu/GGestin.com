@@ -11,6 +11,18 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Freelancer
+    location: Paris, France
+    overview: Working as a freelancer providing various IT services, while enjoying the freedom and flexibility of being my own boss.
+  positions:
+  - designation: Freelancer
+    start: November 2024
+    responsibilities:
+    - Provide IT consulting services to clients.
+    - Develop custom software solutions based on client requirements.
+    - Manage and maintain client websites and applications.
+
+- company:
     name: PEX Code
     url: "https://pexcode.org/"
     location: Paris, France
